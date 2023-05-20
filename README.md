@@ -10,9 +10,8 @@ Nerver Stop 🚀 Learning
 
 #
 
-Database Fundamentals - Programming Logic *☆ Programming Language”.
+Database Fundamentals ✭ Programming Logic ✭ Programming Language”.
 
 
 
 
-✭
