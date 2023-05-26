@@ -24,7 +24,7 @@ Programming Logic
 
 ✭ 
 
-✭ [AC2 - Linguagem de Programação.pdf](https://github.com/FabianaCampanari/University-Grades-Tracker/files/11571344/AC2.-.Linguagem.de.Programacao.pdf)
+✭ 
 
 
 #
