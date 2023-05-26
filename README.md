@@ -14,7 +14,7 @@ Nerver Stop 🚀 Learning
 
 Database Fundamentals  
 
-✭ 
+✭ [AC1 - Fundamentos de Banco de Dados.pdf](https://github.com/FabianaCampanari/University-Grades-Tracker/files/11571412/AC1.-.Fundamentos.de.Banco.de.Dados.pdf)
 
 ✭ 
 
