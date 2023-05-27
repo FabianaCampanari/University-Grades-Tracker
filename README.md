@@ -9,11 +9,8 @@ Thank you for visiting!
 
 #
 
-<p align="center"> Nerver Stop 🚀 Learning </p>
-
 <p align="center">
- <img src="https://github.com/FabianaCampanari/University-Grades-Tracker/assets/113218619/33c27e16-b609-45cd-a7b0-953442a957a9" 
-      </p>
+ <img src="https://github.com/FabianaCampanari/University-Grades-Tracker/assets/113218619/33c27e16-b609-45cd-a7b0-953442a957a9" </p>
 
 #
 
