@@ -8,7 +8,7 @@ Thank you for visiting!
 
 Nerver Stop 🚀 Learning
 
-![Quantum](https://github.com/FabianaCampanari/University-Grades-Tracker/assets/113218619/032bffdf-4232-4753-a765-8b7764498f90)
+![giphy](https://github.com/FabianaCampanari/University-Grades-Tracker/assets/113218619/33c27e16-b609-45cd-a7b0-953442a957a9)
 
 #
 
