@@ -1,4 +1,4 @@
-# <p align="center"> University Grades Tracker </p>
+# <p align="center"> University Grades Tracker </p> 👩‍🎓🧑🏻‍🎤👩‍🎓👩‍💻👩‍🎓👩‍🎓👩‍🎓👩‍🎓👩‍🎓👩‍💻👩‍💻🖤⚙️🧊🧊
 
    Welcome to my University Grades Tracker repository ! This repository is dedicated to tracking my progress and grades in the course of Systems Analysis and Software Development at Impacta University, São Paulo, Brazil 🇧🇷 . Here you will find information about my performance in subjects such as Database, Programming Logic, Python Programming Language and more.
 Feel free to explore and leave any comments or suggestions. 
