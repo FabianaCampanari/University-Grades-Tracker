@@ -4,6 +4,9 @@ Welcome to my University Grades Tracker repository! This repository is dedicated
 Feel free to explore and leave any comments or suggestions. 
 Thank you for visiting!
 
+
+<p align="center"> < studying with love & joy /> 🧡 
+
 #
 
 <p align="center"> Nerver Stop 🚀 Learning </p>
