@@ -1,4 +1,4 @@
-# University-Grades-Tracker
+# <p align="center"> University-Grades-Tracker
 
 Welcome to my University-Grades-Tracker repository! This repository is dedicated to tracking my progress and grades in the course of Systems Analysis and Software Development at Impacta University, São Paulo, Brazil 🇧🇷 . Here you will find information about my performance in subjects such as Database, Programming Logic and Python Programming Language and more.
 Feel free to explore and leave any comments or suggestions. 
@@ -6,7 +6,7 @@ Thank you for visiting!
 
 #
 
-<p align="center">Nerver Stop 🚀 Learning </p>
+<p align="center"> Nerver Stop 🚀 Learning </p>
 
 <p align="center">
  <img src="https://github.com/FabianaCampanari/University-Grades-Tracker/assets/113218619/33c27e16-b609-45cd-a7b0-953442a957a9" 
