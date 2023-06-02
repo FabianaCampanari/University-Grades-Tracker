@@ -50,9 +50,9 @@ Programming Language
 
 ✭ [AC3 - Linguagem de Programação.pdf](https://github.com/FabianaCampanari/University-Grades-Tracker/files/11631613/AC3.-.Linguagem.de.Programacao.pdf)
  
- #
+ # 
  
-<p align="center"> ⚖︎ This project is licensed under the MIT LICENSE. </p>
+##### <p align="center"> ⚖︎ This project is licensed under the MIT LICENSE. </p>
 
 
 
