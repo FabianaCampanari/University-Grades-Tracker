@@ -9,10 +9,10 @@ Thank you for visiting !
 
 #
 
+ ##### <p align="center">  ✭ Logical Thinking  ✭  </p>
+ 
 <p align="center">
  <img src="https://github.com/FabianaCampanari/University-Grades-Tracker/assets/113218619/33c27e16-b609-45cd-a7b0-953442a957a9" </p>
-
-  ##### <p align="center">  ✭ Logical Thinking  ✭  </p>
  
 #
 
@@ -34,9 +34,6 @@ Programming Logic
 ✭ [AC2 - Lógica de Programação.pdf](https://github.com/FabianaCampanari/University-Grades-Tracker/files/11571401/AC2.-.Logica.de.Programacao.pdf)
 
 ✭ [AC3 - Lógica de Programação.pdf](https://github.com/FabianaCampanari/University-Grades-Tracker/files/11631640/AC3.-.Logica.de.Programacao.pdf)
-
-
-
 
 #
 
