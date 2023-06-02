@@ -52,7 +52,7 @@ Programming Language
  
  #
  
-⚖︎ This project is licensed under the MIT LICENSE. 
+<p align="center"> ⚖︎ This project is licensed under the MIT LICENSE. </p>
 
 
 
