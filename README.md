@@ -19,7 +19,7 @@ Thank you for visiting !
  
 #
 
- Database Fundamentals 
+Database Fundamentals 
  
 ##### ✭ [AC1 - Fundamentos de Banco de Dados.pdf](https://github.com/FabianaCampanari/University-Grades-Tracker/files/11631869/AC1.-.Fundamentos.de.Banco.de.Dados.pdf)  
 
@@ -35,19 +35,19 @@ Programming Logic
 
 ##### ✭ [AC2 - Lógica de Programação.pdf](https://github.com/FabianaCampanari/University-Grades-Tracker/files/11571401/AC2.-.Logica.de.Programacao.pdf)
 
-✭ [AC3 - Lógica de Programação.pdf](https://github.com/FabianaCampanari/University-Grades-Tracker/files/11631640/AC3.-.Logica.de.Programacao.pdf)
+##### ✭ [AC3 - Lógica de Programação.pdf](https://github.com/FabianaCampanari/University-Grades-Tracker/files/11631640/AC3.-.Logica.de.Programacao.pdf)
 
 #
 
 Programming Language
 
-✭ [AC1 - Linguagem de Programação.pdf](https://github.com/FabianaCampanari/University-Grades-Tracker/files/11571350/AC1.-.Linguagem.de.Programacao.pdf)
+##### ✭ [AC1 - Linguagem de Programação.pdf](https://github.com/FabianaCampanari/University-Grades-Tracker/files/11571350/AC1.-.Linguagem.de.Programacao.pdf)
 
 
-✭ [AC2 - Linguagem de Programação.pdf](https://github.com/FabianaCampanari/University-Grades-Tracker/files/11571353/AC2.-.Linguagem.de.Programacao.pdf)
+##### ✭ [AC2 - Linguagem de Programação.pdf](https://github.com/FabianaCampanari/University-Grades-Tracker/files/11571353/AC2.-.Linguagem.de.Programacao.pdf)
 
 
-✭ [AC3 - Linguagem de Programação.pdf](https://github.com/FabianaCampanari/University-Grades-Tracker/files/11631613/AC3.-.Linguagem.de.Programacao.pdf)
+##### ✭ [AC3 - Linguagem de Programação.pdf](https://github.com/FabianaCampanari/University-Grades-Tracker/files/11631613/AC3.-.Linguagem.de.Programacao.pdf)
  
  # 
  
