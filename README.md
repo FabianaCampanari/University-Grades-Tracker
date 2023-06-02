@@ -19,16 +19,13 @@ Thank you for visiting !
  
 #
 
- <p align="center"> Database Fundamentals  </p> 
+ Database Fundamentals 
  
-✭ [AC1 - Fundamentos de Banco de Dados.pdf](https://github.com/FabianaCampanari/University-Grades-Tracker/files/11631869/AC1.-.Fundamentos.de.Banco.de.Dados.pdf)  
+### ✭ [AC1 - Fundamentos de Banco de Dados.pdf](https://github.com/FabianaCampanari/University-Grades-Tracker/files/11631869/AC1.-.Fundamentos.de.Banco.de.Dados.pdf)  
 
 ✭ [AC2 - Fundamentos de Banco de Dados.pdf](https://github.com/FabianaCampanari/University-Grades-Tracker/files/11571418/AC2.-.Fundamentos.de.Banco.de.Dados.pdf)
 
 ✭ [AC3 - Fundamentos de Banco de Dados.pdf](https://github.com/FabianaCampanari/University-Grades-Tracker/files/11631584/AC3.-.Fundamentos.de.Banco.de.Dados.pdf)
-
-<p align="center"> 
-  <img src="https://github.com/FabianaCampanari/University-Grades-Tracker/issues/83#issue-1737453325"
 
 #
 
