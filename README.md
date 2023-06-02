@@ -33,6 +33,9 @@ Programming Logic
 
 ✭ [AC2 - Lógica de Programação.pdf](https://github.com/FabianaCampanari/University-Grades-Tracker/files/11571401/AC2.-.Logica.de.Programacao.pdf)
 
+[AC3 - Lógica de Programação.pdf](https://github.com/FabianaCampanari/University-Grades-Tracker/files/11631640/AC3.-.Logica.de.Programacao.pdf)
+
+
 
 
 #
