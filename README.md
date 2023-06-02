@@ -19,7 +19,7 @@ Thank you for visiting !
  
 #
 
-🧠 Database Fundamentals 
+🧊 Database Fundamentals 
  
 ##### ✭ [AC1 - Fundamentos de Banco de Dados.pdf](https://github.com/FabianaCampanari/University-Grades-Tracker/files/11631869/AC1.-.Fundamentos.de.Banco.de.Dados.pdf)  
 
@@ -29,7 +29,7 @@ Thank you for visiting !
 
 #
 
-Programming Logic
+🧠 Programming Logic
 
 ##### ✭ [AC1 - Lógica de Programação.pdf](https://github.com/FabianaCampanari/University-Grades-Tracker/files/11571387/AC1.-.Logica.de.Programacao.pdf)
 
@@ -39,7 +39,7 @@ Programming Logic
 
 #
 
-Programming Language
+🐍 Programming Language
 
 ##### ✭ [AC1 - Linguagem de Programação.pdf](https://github.com/FabianaCampanari/University-Grades-Tracker/files/11571350/AC1.-.Linguagem.de.Programacao.pdf)
 
