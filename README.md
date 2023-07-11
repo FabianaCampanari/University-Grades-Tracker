@@ -19,7 +19,7 @@ Thank you for visiting !
  
 #
 
-🧊 Database Fundamentals 
+
 
 #
  
