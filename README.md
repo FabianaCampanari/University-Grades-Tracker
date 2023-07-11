@@ -70,7 +70,7 @@ Thank you for visiting !
 
 #
 
-🧠 Programming Logic
+### <p align="center"> 🧠 Programming Logic Scores </p>
 
 #
 
