@@ -40,8 +40,8 @@ Thank you for visiting !
 ##### ✫ [Multidisciplinary Database Test Answers and Score.pdf](https://github.com/FabianaCampanari/University-Grades-Tracker/files/12016567/Multidisciplinary.Database.Test.Answers.and.Score.pdf)
 
 <p align="center"> 
- <img src="https://github.com/FabianaCampanari/University-Grades-Tracker/assets/113218619/c81aa519-0b57-401c-9a97-625142ced421" 
-
+ <img src="https://github.com/FabianaCampanari/University-Grades-Tracker/assets/113218619/c81aa519-0b57-401c-9a97-625142ced421" />
+ 
 #
 
 🧠 Programming Logic
