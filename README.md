@@ -5,7 +5,7 @@ Welcome to my University-Grades-Tracker repository! This repository is dedicated
 Thank you for visiting ! 
 
 
-<p align="center"> < studying with love & joy /> 🧡 
+<p align="center"> < studying with love & joy /> 🤍
 
 #
 
