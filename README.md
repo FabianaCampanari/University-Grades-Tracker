@@ -96,6 +96,10 @@ Thank you for visiting !
 
 ### <p align="center"> 📊 Final Average </p>
 
+#
+
+#### <p align="center"> 📈 Weighted Average of Grades 1st Semester 2023 </p>
+
 
  
  # 
