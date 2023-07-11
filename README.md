@@ -68,12 +68,6 @@ Thank you for visiting !
 <p align="center"> 
 <img src="https://github.com/FabianaCampanari/University-Grades-Tracker/assets/113218619/57ab1d02-a317-4e6c-8779-3160c62efbf0" />
 
-![NMultidisciplinary Programming Language Test Score](https://github.com/FabianaCampanari/University-Grades-Tracker/assets/113218619/57ab1d02-a317-4e6c-8779-3160c62efbf0)
-
-
-
-
-
 #
 
 🧠 Programming Logic
