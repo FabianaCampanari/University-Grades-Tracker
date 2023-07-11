@@ -91,8 +91,8 @@ Thank you for visiting !
 
 <p align="center"> 
 <img src="https://github.com/FabianaCampanari/University-Grades-Tracker/assets/113218619/2689d2cf-273c-4dba-bbf4-4e5b6985fee0" />
-![NMultidisciplinary Programming Logic Test Score](https://github.com/FabianaCampanari/University-Grades-Tracker/assets/113218619/2689d2cf-273c-4dba-bbf4-4e5b6985fee0)
 
+#
 
 
  
