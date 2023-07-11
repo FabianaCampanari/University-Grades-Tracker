@@ -22,6 +22,9 @@ Thank you for visiting !
 ### <p align="center">  🎲 Database Scores </p>
 
 #
+
+
+#### <p align="center"> 📝 Continuous Activities Database Corrected and Scores </p>
  
 ##### ✭ [AC1 - Fundamentos de Banco de Dados.pdf](https://github.com/FabianaCampanari/University-Grades-Tracker/files/11631869/AC1.-.Fundamentos.de.Banco.de.Dados.pdf)  
 
