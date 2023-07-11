@@ -99,7 +99,6 @@ Thank you for visiting !
 <p align="center"> 
 <img src="https://github.com/FabianaCampanari/University-Grades-Tracker/assets/113218619/d9d154e4-7cb1-47c8-938a-f16e392cbd11"/>
 
-![4a-Weighted Average of Grades 1st Semester 2023](https://github.com/FabianaCampanari/University-Grades-Tracker/assets/113218619/d9d154e4-7cb1-47c8-938a-f16e392cbd11)
 
 #### <p align="center"> 📊 Absolute Final Average of Grades 1st Semester 2023 </p>
 
