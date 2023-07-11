@@ -42,11 +42,6 @@ Thank you for visiting !
 <p align="center"> 
  <img src="https://github.com/FabianaCampanari/University-Grades-Tracker/assets/113218619/c81aa519-0b57-401c-9a97-625142ced421" 
 
-![NMultidisciplinary Database Test Score](https://github.com/FabianaCampanari/University-Grades-Tracker/assets/113218619/c81aa519-0b57-401c-9a97-625142ced421)
-
-
-
-
 #
 
 
