@@ -9,7 +9,7 @@ Thank you for visiting !
 
 #
 
-##### <p align="center"> Nerver Stop 🚀 Learning </p>
+
  
 <p align="center">
  <img src="https://github.com/FabianaCampanari/University-Grades-Tracker/assets/113218619/33c27e16-b609-45cd-a7b0-953442a957a9" />
@@ -106,6 +106,7 @@ Thank you for visiting !
 
 ![4-Absolute Final Average of Grades 1st Semester 2023](https://github.com/FabianaCampanari/University-Grades-Tracker/assets/113218619/fbf8d390-db38-4ff6-9d09-61caab43c4a6)
 
+##### <p align="center"> Nerver Stop 🚀 Learning </p>
 
 
  
