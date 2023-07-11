@@ -89,6 +89,8 @@ Thank you for visiting !
 
 ##### ✫ [Multidisciplinary Programming Logic Test Answers and Score.pdf](https://github.com/FabianaCampanari/University-Grades-Tracker/files/12017989/Multidisciplinary.Programming.Logic.Test.Answers.and.Score.pdf)
 
+![NMultidisciplinary Programming Logic Test Score](https://github.com/FabianaCampanari/University-Grades-Tracker/assets/113218619/2689d2cf-273c-4dba-bbf4-4e5b6985fee0)
+
 
 
  
