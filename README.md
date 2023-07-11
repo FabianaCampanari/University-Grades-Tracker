@@ -44,7 +44,7 @@ Thank you for visiting !
  
 #
 
-🐍 Programming Language
+ ### <p align="center"> 🐍 Programming Language Scores </p>
 
 #
 
