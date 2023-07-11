@@ -104,6 +104,9 @@ Thank you for visiting !
 
 #### <p align="center"> 📊 Absolute Final Average of Grades 1st Semester 2023 </p>
 
+![4-Absolute Final Average of Grades 1st Semester 2023](https://github.com/FabianaCampanari/University-Grades-Tracker/assets/113218619/fbf8d390-db38-4ff6-9d09-61caab43c4a6)
+
+
 
  
  # 
